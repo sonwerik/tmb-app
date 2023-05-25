@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Transport Metropolità de Barcelona</string>
+    <string name="title_home">Inici</string>
+    <string name="title_dashboard">Mapa</string>
+    <string name="title_notifications">Compres</string>
+    <string name="todo">TODO</string>
+    <string name="all">TODO</string>
+    <string name="full">TODO</string>
+    <string name="title">Título</string>
+    <string name="maps">Mapa</string>
+</resources>
